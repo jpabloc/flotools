@@ -6,27 +6,11 @@
 	<dict>
 		<key>Resources/Flo Tools.kmmacros</key>
 		<data>
-		q7kqbSTircClXttNYw5cYCexjzk=
-		</data>
-		<key>Resources/Flo Tools/Plug-In Views/Dyn3 Compressor Limiter.txt</key>
-		<data>
-		C8NUhZsbUhCHMJkMap+nnQ2vpkM=
-		</data>
-		<key>Resources/Flo Tools/Plug-In Views/EQ3 7-Band-1.txt</key>
-		<data>
-		9tUE49jj7BA5lTvfsREgFTGgkIw=
-		</data>
-		<key>Resources/Flo Tools/Plug-In Views/EQ3 7-Band.txt</key>
-		<data>
-		nt11GGx/Sf2A6PxA7JIKs8SCJiM=
-		</data>
-		<key>Resources/Scripts/install macros.scpt</key>
-		<data>
-		LR//Pl4V4X0bpBrGIMnlu5bz8uw=
+		E0v59VGQ59aWdkDxNmYKfdQu6yo=
 		</data>
 		<key>Resources/Scripts/main.scpt</key>
 		<data>
-		+QxSMLAWLbAn9cUWu5V2ZyeEHSI=
+		FxC2Yo9En6FlUHaOKlT8otJ7jeU=
 		</data>
 		<key>Resources/applet.icns</key>
 		<data>
@@ -34,7 +18,7 @@
 		</data>
 		<key>Resources/applet.rsrc</key>
 		<data>
-		EAae5VGpmi6AI5lFOATgT779nB8=
+		IQphz5nWODTyuOH8gByVF+z8oig=
 		</data>
 		<key>Resources/description.rtfd/TXT.rtf</key>
 		<data>
@@ -47,66 +31,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			q7kqbSTircClXttNYw5cYCexjzk=
+			E0v59VGQ59aWdkDxNmYKfdQu6yo=
 			</data>
 			<key>hash2</key>
 			<data>
-			L4NdVYKVjo5nzpPziAGqqtV9Ow4Cad7xcUBr8jWxCys=
-			</data>
-		</dict>
-		<key>Resources/Flo Tools/Plug-In Views/Dyn3 Compressor Limiter.txt</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			C8NUhZsbUhCHMJkMap+nnQ2vpkM=
-			</data>
-			<key>hash2</key>
-			<data>
-			Ex0qVvzYhMILRDFP1wzZKxIjeRRHoPtFxdQXwyE9Pdo=
-			</data>
-		</dict>
-		<key>Resources/Flo Tools/Plug-In Views/EQ3 7-Band-1.txt</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			9tUE49jj7BA5lTvfsREgFTGgkIw=
-			</data>
-			<key>hash2</key>
-			<data>
-			y3vIlR4rZ9UdnAKyj3bZoEgYjRO46GZVj7rW/8TSGvY=
-			</data>
-		</dict>
-		<key>Resources/Flo Tools/Plug-In Views/EQ3 7-Band.txt</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			nt11GGx/Sf2A6PxA7JIKs8SCJiM=
-			</data>
-			<key>hash2</key>
-			<data>
-			5cqpzvTpdvMCpu29EfDmFV53fU5d0QlZdtJd6eWP7gQ=
-			</data>
-		</dict>
-		<key>Resources/Scripts/install macros.scpt</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			LR//Pl4V4X0bpBrGIMnlu5bz8uw=
-			</data>
-			<key>hash2</key>
-			<data>
-			sP1JHmJQT9wLexn1QzRqp/xs6gmADkXbkROohzb7vAM=
+			/14KPwpnivOd+8jJCHra8rLa0GREj+IWbXXKIX87fPE=
 			</data>
 		</dict>
 		<key>Resources/Scripts/main.scpt</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+QxSMLAWLbAn9cUWu5V2ZyeEHSI=
+			FxC2Yo9En6FlUHaOKlT8otJ7jeU=
 			</data>
 			<key>hash2</key>
 			<data>
-			4jp96i5/UdfqRbVr7zFV16Aoqw+XScR3XFAkorqh6Iw=
+			letNVqQGzN7TjUqAfwiy/P4O4sQqWVpF6BoEqzrf13s=
 			</data>
 		</dict>
 		<key>Resources/applet.icns</key>
@@ -124,11 +64,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			EAae5VGpmi6AI5lFOATgT779nB8=
+			IQphz5nWODTyuOH8gByVF+z8oig=
 			</data>
 			<key>hash2</key>
 			<data>
-			V8DJ8cO/fv28PvnKQWe7MFFTbwvVdhEZP2VZgB7sS3E=
+			A4FW2IC60UBqVsstW/kP/fn3mFGq1iEtVAoDMROfg6A=
 			</data>
 		</dict>
 		<key>Resources/description.rtfd/TXT.rtf</key>
